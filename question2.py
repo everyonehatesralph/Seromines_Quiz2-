@@ -3,5 +3,5 @@ num2 = 4
 
 result = num1 / num2
 
-print("The result before i translated into a integer is", result,"and this is the result when i translated it into a integer", int(result)) 
+print("Before converting it into an integer, the result is", result, f"and this is the result when I convert it into an integer, {int(result)}.")
 
